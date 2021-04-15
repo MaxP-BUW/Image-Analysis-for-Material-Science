@@ -8,6 +8,7 @@ Written by Max Patzelt
 Image Segmentation using traditional machine learning
 used features: pixel value, gabor filter, canny, roberts, sobel, scharr, prewitt, gaussian, median, variance
 used classifier: random forest
+like introduced in: https://www.youtube.com/watch?v=6yW31TT6-wA by 
 
 ## Ridge Detection.py
 
