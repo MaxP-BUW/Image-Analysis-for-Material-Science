@@ -18,7 +18,7 @@ Detecting ridges using meijering, sato, frangi, hessian
 
 Detecting ridges using meijering and frangi filter.
 
-## crack_skeletonization_via_medial_axis_and_gaussian_blur_v0-02.py
+## crack_skeletonization_via_medial_axis_and_gaussian_blur_v0-03.py
 
 Measuring length and width of irregular linear features (like cracks) using median axis skeletonization and gaussian blur
 - in developement
